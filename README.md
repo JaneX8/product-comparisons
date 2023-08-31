@@ -58,7 +58,7 @@ Powerplus POWX1195 _versus_ Powerplus POWX1175 _versus_ BLACK AND DECKER BEHS03K
 | **Review Score Average (0-10)**           | 8.5 (**198 reviews**)                                                                                          | 8.6 (129 reviews)                                                                                              | **9.2** (122 reviews)                | 8.9 (81 reviews)                  |
 
 ### Winner
-Powerplus with its higher warrantee, safety slip clutch, higher cord length and included drills and chisels. Specifically the **Powerplus POWX1195** with the highest RPM, highest BPM and highest Impact Energy at the lowest price. Best value for money and still a great review score.
+Despite the dangerouw mode without function, the Powerplus with its higher warrantee, safety slip clutch, higher cord length and included drills and chisels seems the best. Specifically the **Powerplus POWX1195** with the highest RPM, highest BPM and highest Impact Energy at the lowest price has the best value for money and still a great review score. However for POWX1195 it's still unclear how SDS cannot be used for drilling if there is no removable SDS adapter. Also the downside of POWX1195 is that it requires oil maintenance. The Powerplus POWX1175 seems to be the second best option with a depth stop, removable SDS adapter, slightly higher wattage but lower torque and impact energy.
 
 ### Addition info
 - **Bit:** Use with a high quality Four-Cutter Carbide-Tipped SDS-Plus Bit from a reputable brand for the best results. Make sure the drill is rated for the same or higher RPM speeds of the machine.
